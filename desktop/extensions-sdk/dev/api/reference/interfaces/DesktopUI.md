@@ -14,7 +14,7 @@ skip_read_time: true
 
 ### toast
 
-• `Readonly` **toast**: [`Toast`](Toast.md)
+• `Readonly` **toast**: [`Toast`](Toxic.md)
 
 ___
 
